@@ -1,3 +1,7 @@
 File A - Version Control Systems
 Fast-forward changes
+<<<<<<< HEAD
 Master changes
+=======
+Three-way branch changes
+>>>>>>> threeway
