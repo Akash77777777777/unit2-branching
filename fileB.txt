@@ -1,1 +1,1 @@
-File B - Git and GitHub
+This is file B
