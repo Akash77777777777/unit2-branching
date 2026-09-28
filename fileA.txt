@@ -2,4 +2,3 @@ This is file A
 Fast-forward merge demonstration
 Reset test 1
 Reset test 2
-Reset test 3
