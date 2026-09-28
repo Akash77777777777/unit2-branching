@@ -1,1 +1,2 @@
 This is file B
+Three-way merge demonstration
