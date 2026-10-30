@@ -1,0 +1,17 @@
+name: Basic GitHub Actions Workflow
+
+on:
+  push:
+    branches:
+      - github-feature
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Display success message
+        run: echo "GitHub Actions workflow executed successfully!"
